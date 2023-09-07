@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Heroes History</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="about_me">About Me</string>
+    <string name="developer_name">Dean Agnia</string>
+    <string name="developer_email">deanagnia7@gmail.com</string>
+    <string name="hero_history_app">hero history app</string>
+    <string name="design_by">Design By Dean Agnia</string>
+
+    <string-array name="data_name">
+        <item>Claude</item>
+        <item>Brody</item>
+        <item>Irithel</item>
+        <item>Lesley</item>
+        <item>Karrie</item>
+        <item>Melissa</item>
+        <item>Hanabi</item>
+        <item>Layla</item>
+        <item>Miya</item>
+        <item>Popol and Kupa</item>
+        <item>Edith</item>
+        <item>Beatrix</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.</item>
+        <item>Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past. Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded. Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.</item>
+        <item>A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader. With the help of Nana, she learned the human language and fighting skills, but she still did not trust humans and only trusted her friend, a little tiger named Leo.</item>
+        <item>After the death of her father, she was adopted by House Vance and became sister of Harley. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly.</item>
+        <item>Karrie was trained by the Empire to become a war machine from when she was a child, because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.</item>
+        <item>As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.</item>
+        <item>As the owner of Higanbana, one of the seven great armaments of the Scarlet Shadow clan, Hanabi is the pride of the Scarlet Sect. To carry on her will of her father, she has sought power since childhood. As a result of her single-minded goal, she closed herself off to all feelings and emotions. Even so, she was never truly accepted by Higanbana. Once, when she was pursuing an enemy spy and losing ground, she accidentally stepped into the world inside Higanbana and lingered between illusion and reality. Eventually, she came to understand that power without emotion was volatile and fleeting. She came to terms with herself and embraced her feelings and desires as she became one with Higanbana.</item>
+        <item>As an adventurous child, Layla set off to explore the world after she received the Malefic Cannon from his father. Unexpectedly, Layla fell into the hands of Laboratory 1718. Her father give himself to the lab as a hostage in order to save Layla. To make up for her mistake and save her father, Layla picked up the Malefic Gun and set out on a rescue mission.</item>
+        <item>Miya lived in Azrya with the other Moon Elves. She stood aloof from worldly strife, and did not expect the Demon army would attack suddenly. In order to protect her homeland, Miya, as the Priestess of the Moon, led the other Moon Elves in a defense against foreign enemies.</item>
+        <item>Popol is a naughty boy who has ambitions and lofty ieals but is not understood. In order to prove himself, he went alone to hunt down the Icefield Dire Wolves, but accidentally fell into a trap. There was also an Dire Wolf called Kupa inside the trap. After a long time together, they developed a friendship and fought against a group of vultures together. Later, Popol and Kupa became the closest partners in the Ice Field.</item>
+        <item>Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years. When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins-Elemental Giant Uranus was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father. Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha "Phylax" and set out on a journey to hunt down fleeing Evil Gods.</item>
+        <item>Beatrix dedicated herself to studying technology, which in turn only served to deepen her obsession with it till she reached a bottleneck in her studies. After her 16th birthday, Beatrix packed her bags and set off on the road to Eruditio, where she would continue her studies in earnest. She yearned to learn more about the most advanced of all technology in the Land of Dawn - Leviathan technologies.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/claude</item>
+        <item>@drawable/brody</item>
+        <item>@drawable/irithel</item>
+        <item>@drawable/lesley</item>
+        <item>@drawable/karrie</item>
+        <item>@drawable/melissa</item>
+        <item>@drawable/hanabi</item>
+        <item>@drawable/layla</item>
+        <item>@drawable/miya</item>
+        <item>@drawable/popol</item>
+        <item>@drawable/edith</item>
+        <item>@drawable/beatrix</item>
+    </integer-array>
+</resources>

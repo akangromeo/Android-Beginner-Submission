@@ -1,4 +1,4 @@
-# Android-Beginner-Submission
+# Mobile Legends History Apps
 
 This Apps Contain :
 1. List of Hero Mobile Legends with Recycler View.
@@ -6,6 +6,8 @@ This Apps Contain :
 3. Share feature on point 2.
 4. about-me Activity.
 5. Splash Screen
+
+Language = Kotlin
 
 *all features above support for both orientation (Potrait & Landscape)*
 
